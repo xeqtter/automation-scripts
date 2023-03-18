@@ -25,7 +25,7 @@ Notes:
     instead of "python" and "pip"
 """
 
-import sys, getopt, time, datetime
+import sys, getopt, time
 
 from urllib.parse import urlencode
 from requests import Session, utils
